@@ -7,7 +7,7 @@
 # Ignore bundler config.
 log
 tmp
-./bundle
+.bundle
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
